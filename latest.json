@@ -1,11 +1,11 @@
 {
-  "version": "0.4.8",
-  "notes": "PawPoints Alpha 0.4.5.3 — Breeder Program & Litter Management. Adds Litter HQ, breeder selection boards, puppy growth and care histories, litter analysis, production records, placement integration, and nursery reliability improvements.",
-  "pub_date": "2026-09-07T22:11:00Z",
+  "version": "0.4.54",
+  "notes": "PawPoints: Living Bloodlines Alpha 0.4.5.4 — Advanced Breeding & Reproduction + Multiple Save Files. Adds advanced reproductive cycles, progesterone testing, breeding timing, natural/fresh/chilled/frozen/TCI breeding methods, fertility-aware conception, pregnancy diagnostics, reproductive histories, expanded whelping and litter outcomes, integration with existing semen and AI breeding systems, and 8 isolated save slots with migration support for the previous single-save game.",
+  "pub_date": "2026-09-07T17:30:00-05:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZGFZWHRESWVjbndVWi9UWDNta1p4UE9sTjZXV294bjREYW9HZGxHUnNHZUthOEtuSXZ1ZUNGV2puV29meDgxdVNkWi85S3RzWk5XYWkwczNNYi9pbG91VXNQZjJGR2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODE4Nzg1CWZpbGU6UGF3UG9pbnRzIExpdmluZyBCbG9vZGxpbmVzXzAuNC44X3g2NC1zZXR1cC5leGUKaE9EUW5ORWpyNThIZHE2QzR2Umo3OG1TYVBlT3d0bk13Sm5ZOFU1QVUrZW5zaFpQVUtZT0RxRnBnYlM5VTJXZXN6K1d3b1owaVpLZnVHeGZsVnJBQXc9PQo=",
-      "url": "https://github.com/mateoalex-pawpoints/PawPoints-Releases/releases/download/v0.4.5.3/PawPoints.Living.Bloodlines_0.4.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZGFZWHRESWVjbjhBOUdvREU1REVqRXJMbnVNSGdpRWJQRE9sSzZCN1oyT0ptV0ZOMkYyWDh3aWpGaFhsbEE5TEJmOXFFbHUyY3Z5YVZEMnhhdWJNSzFWYVdsUnBGNGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODIxNjU5CWZpbGU6UGF3UG9pbnRzIExpdmluZyBCbG9vZGxpbmVzXzAuNC41NF94NjQtc2V0dXAuZXhlCkhGRjhJU1JzYTc4b3FSVXRXcTdqbjdzNGhIUFYzalI5cW1pOHV6YnpZTHJhdzhLbExvcU56WUcrUEN6WW9lNTRCUkFHOVVmT2lFMEowMHI4Q0lqMUFBPT0K",
+      "url": "https://github.com/mateoalex-pawpoints/PawPoints-Releases/releases/download/v0.4.5.4/PawPoints.Living.Bloodlines_0.4.54_x64-setup.exe"
     }
   }
 }
