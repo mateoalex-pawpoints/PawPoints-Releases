@@ -1,11 +1,11 @@
 {
-  "version": "0.4.54",
-  "notes": "PawPoints: Living Bloodlines Alpha 0.4.5.4 — Advanced Breeding & Reproduction + Multiple Save Files. Adds advanced reproductive cycles, progesterone testing, breeding timing, natural/fresh/chilled/frozen/TCI breeding methods, fertility-aware conception, pregnancy diagnostics, reproductive histories, expanded whelping and litter outcomes, integration with existing semen and AI breeding systems, and 8 isolated save slots with migration support for the previous single-save game.",
+  "version": "0.4.55",
+  "notes": "PawPoints: Living Bloodlines Alpha 0.4.5.5 — Kennel Facilities & Staff Expansion + New Home Screen",
   "pub_date": "2026-09-07T17:30:00-05:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZGFZWHRESWVjbjhBOUdvREU1REVqRXJMbnVNSGdpRWJQRE9sSzZCN1oyT0ptV0ZOMkYyWDh3aWpGaFhsbEE5TEJmOXFFbHUyY3Z5YVZEMnhhdWJNSzFWYVdsUnBGNGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODIxNjU5CWZpbGU6UGF3UG9pbnRzIExpdmluZyBCbG9vZGxpbmVzXzAuNC41NF94NjQtc2V0dXAuZXhlCkhGRjhJU1JzYTc4b3FSVXRXcTdqbjdzNGhIUFYzalI5cW1pOHV6YnpZTHJhdzhLbExvcU56WUcrUEN6WW9lNTRCUkFHOVVmT2lFMEowMHI4Q0lqMUFBPT0K",
-      "url": "https://github.com/mateoalex-pawpoints/PawPoints-Releases/releases/download/v0.4.5.4/PawPoints.Living.Bloodlines_0.4.54_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZGFZWHRESWVjbi8xei9Ja1Vic05lR0xOd3lGTXovM2p3VFRGQ0JvR2xleXV5Mkk2Wk5RT0N2UVZFOW44Z015d1plRmxDQkptTmhLalI2QVRnVGhxQUdXdTB1UE5RUEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODIzNDI5CWZpbGU6UGF3UG9pbnRzIExpdmluZyBCbG9vZGxpbmVzXzAuNC41NV94NjQtc2V0dXAuZXhlCm9UVDNVMDlWTFpXWS93OTRqMXh2aHYwQWt6SGp3djgvYy9LRE9NU2FpczlhRkQybWtWQUtWRGN2TUVxVVU0ejM4R1J1cXZXaUdYenlsalhrSktLNkR3PT0K",
+      "url": "https://github.com/mateoalex-pawpoints/PawPoints-Releases/releases/download/v0.4.5.5/PawPoints.Living.Bloodlines_0.4.55_x64-setup.exe"
     }
   }
 }
