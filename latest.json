@@ -4,7 +4,7 @@
   "pub_date": "2026-09-07T10:01:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZGFZWHRESWVjbjZmWVhCODdzNUZSZlQrb3g0Mll4c1hOQytNQ3pwYU8xOHNnbTRNVUJKYS9RbUdrMDZuZjFrN2VxK3BvaVNPc1ltekplOGViVmFYVXdOWW9NVnU1UndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4Nzc0NDY1CWZpbGU6UGF3UG9pbnRzIExpdmluZyBCbG9vZGxpbmVzXzAuNC43X3g2NC1zZXR1cC5leGUKeE94YTFqWGE4WmNkS0VwT1gva0xxNGx2eVNiNk9ucmVLZ1laSFdhbWtvOGNKK0ZkN21xNU9vK2VjZE03R3hzOFl3SjF6eDk2a0xaMm9ZOFBwRnRQQXc9PQo=",
+      "signature": "YOUR_EXISTING_SIGNATURE_HERE",
       "url": "https://github.com/mateoalex-pawpoints/PawPoints-Releases/releases/download/v0.4.5.2/PawPoints.Living.Bloodlines_0.4.7_x64-setup.exe"
     }
   }
