@@ -1,11 +1,11 @@
 {
   "version": "0.4.56",
-  "notes": "PawPoints: Living Bloodlines Alpha 0.4.5.6 — AI Kennel / Living World Expansion. Expands persistent AI kennels with finances, operating costs, reputation, specialties, breeding philosophies, generational progression, notable dogs, foundation-genetics preservation, producer influence, persistent kennel histories, AI rebuilding behavior, influential bloodlines, world rankings, and a dedicated Living World dashboard. Also preserves the corrected 0.4.5.5 home screen, multiple save files, kennel facilities, staff systems, and advanced breeding and reproduction systems.",
+  "notes": "PawPoints: Living Bloodlines Alpha 0.4.5.6 — AI Kennel / Living World Expansion. Expands persistent AI kennels with finances, operating costs, reputation, specialties, breeding philosophies, generational progression, notable dogs, foundation-genetics preservation, producer influence, persistent kennel histories, AI rebuilding behavior, influential bloodlines, world rankings, and a dedicated Living World dashboard. Also preserves the corrected 0.4.5.5 home-screen and button fixes.",
   "pub_date": "2026-09-07T19:00:00-05:00",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZGFZWHRESWVjbjlDRXZsVElIdmFqYS9XMWlpWDl5ZEhneEFYLzdnYVRsanpiZ1pTTGh3TEhTbE5VeVdPUHdTT2MxeGdKeFB0L0pxY0d6RFE0S0hjQUZMRytGZllxN0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODI2NzMyCWZpbGU6UGF3UG9pbnRzIExpdmluZyBCbG9vZGxpbmVzXzAuNC41Nl94NjQtc2V0dXAuZXhlCjlrVzJBYlNiYUFrNWZPTUgvakxncWpZWGQ0NEJMVFR0UmhqZGpkdXNNTy9WV1RvajBRa2pkRGszbFRXRjVTQVlFYTVGall1QTdsdjUrS1creUdpNkJnPT0K",
-      "url": "PASTE_THE_EXACT_WORKING_GITHUB_INSTALLER_URL_HERE"
+      "url": "https://github.com/mateoalex-pawpoints/PawPoints-Releases/releases/download/v0.4.5.6/PawPoints.Living.Bloodlines_0.4.56_x64-setup.exe"
     }
   }
 }
